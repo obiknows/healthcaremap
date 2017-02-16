@@ -1,0 +1,17 @@
+{
+  "name": "healthcaremap",
+  "version": "0.0.1",
+  "description": "a simple health care map",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "health",
+    "care",
+    "healthcare",
+    "map"
+  ],
+  "author": "sam",
+  "license": "MIT"
+}
