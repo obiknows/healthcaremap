@@ -1,2 +1,3 @@
-FROM node:alpine  # get the latest alpine version
+# get the latest alpine version
+FROM node:alpine  
 
